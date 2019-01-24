@@ -31,7 +31,7 @@
             ├── R3PTAR
             └── TRACK3R
         
-        Under the ```clean robot``` folder are some materials of the floor sweeping robot prototype built with LEGO EV3
-        Under the ```intro``` folder are some materials and an overview of how the LEGO EV3 is used 
-        Under the ```python_code``` folder are some sample programs written in python that run on the LEGO EV3
+Under the ```clean robot``` folder are some materials of the floor sweeping robot prototype built with LEGO EV3
+Under the ```intro``` folder are some materials and an overview of how the LEGO EV3 is used 
+Under the ```python_code``` folder are some sample programs written in python that run on the LEGO EV3
         
