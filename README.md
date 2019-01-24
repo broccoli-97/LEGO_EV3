@@ -1,5 +1,6 @@
 # LEGO_EV3
-
+**Lego Mindstorms** is a hardware software platform produced by Lego for the development of programmable robots based on Lego building blocks. Each version of the system includes an intelligent brick computer that controls the system, a set of modular sensors and motors, and Lego parts from the Technic line to create the mechanical systems. **Lego Mindstorms EV3** is the third generation robotics kit in Lego's Mindstorms line.<br/>
+This warehouse is used to put some materials about LEGO EV3. Thank you very much, [Mr. Xin shiqing](https://www.xinshiqing.com), for letting me experience building robots by myself to do what I want at my age. Due to limited time, I am busy with other things, but anyone who is interested is welcome to join us
 ## Content
         .
         ├── clean_robot   
